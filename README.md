@@ -294,9 +294,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Viraj Sawant**
 
-- GitHub: [@virajsawant](https://github.com/virajsawant)
-- Email: viraj@example.com
-- Portfolio: [virajsawant.com](https://virajsawant.com)
+- GitHub: [@Virajr7123 ](https://github.com/Virajr7123)
+- Email: sawantviraj976@gmail.com
+- Portfolio: [https://virajr7123-portfolio-me.netlify.app/](https://virajr7123-portfolio-me.netlify.app/)
 
 ---
 
