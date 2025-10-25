@@ -304,10 +304,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you encounter any issues or have questions:
 
-1. Check the [Troubleshooting](#troubleshooting) section
-2. Review [Firebase Documentation](https://firebase.google.com/docs)
-3. Open an issue on GitHub
-4. Contact the creator
+1. Review [Firebase Documentation](https://firebase.google.com/docs)
+2. Open an issue on GitHub
+3. Contact the creator
 
 ---
 
@@ -322,8 +321,8 @@ If you encounter any issues or have questions:
 
 **Last Updated:** October 2025
 
-**Version:** 1.0.0
+**Version:** 10.0.0
 
 ---
 
-> Made with ❤️ by Viraj Sawant
+> Made by Viraj Sawant
