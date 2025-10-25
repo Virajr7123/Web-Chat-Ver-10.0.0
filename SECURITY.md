@@ -15,7 +15,7 @@ Instead, please use one of the following methods:
 
 2.  **Email:**
     * If you prefer, you can send an email to:
-    * { sawantviraj976@gmail.com } (e.g., web-chat-security@example.com or your personal email)
+    * { sawantviraj976@gmail.com } 
     * Please include "Security Vulnerability Report" in the subject line.
 
 ## What to Include in Your Report
