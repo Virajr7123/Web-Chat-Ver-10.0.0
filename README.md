@@ -44,7 +44,7 @@ Before you begin, ensure you have the following installed:
 - **Node.js** (v18.0.0 or higher)
 - **npm** or **yarn** package manager
 - **Git** for version control
-- A **Firebase Project** (free tier available at [firebase.google.com](https://firebase.google.com))
+- A **Firebase Project** (free tier available at [.consolefirebase.google.com](https://console.firebase.google.com/u/0/))
 
 ---
 
