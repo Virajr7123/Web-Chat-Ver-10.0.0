@@ -2,7 +2,7 @@
 
 > A modern, secure, and feature-rich real-time chat application built with Next.js, Firebase, and TypeScript.
 
-**Created by:** [Viraj Sawant](https://github.com/virajsawant)
+**Created by:** [Viraj Sawant](https://github.com/Virajr7123)
 
 ---
 
