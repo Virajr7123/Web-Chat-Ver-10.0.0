@@ -53,8 +53,7 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/virajsawant/webchat.git
-cd webchat
+git clone https://github.com/Virajr7123/Web-Chat-Ver-10.0.0.git
 \`\`\`
 
 ### Step 2: Install Dependencies
